@@ -1,0 +1,6 @@
+we will create a project that will check the user's location based on browsers 
+with the help of geolocation Api 
+the documentations are in url:https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+
+we will use window.navigator.geolocation. and inside it 
+we use Geolocation.getCurrentPosition();
